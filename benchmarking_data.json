@@ -1,0 +1,32 @@
+{
+  "Category": [
+    "Governance Model",
+    "Compliance Integration",
+    "Automation & AI",
+    "Product Registry & Reuse",
+    "Product Health Monitoring",
+    "Approval Process",
+    "Technology Stack",
+    "Risk Management"
+  ],
+  "Product Governance Assistant Workflow": [
+    "Structured 6-stage workflow with defined roles",
+    "Compliance Officer in design review; checklist validation",
+    "NLP-based similarity scan; design reuse check",
+    "Central registry with tagged components",
+    "Lifecycle status, usage analytics, incident history",
+    "Multi-stage review with clear outcomes",
+    "Jira, Confluence, Figma, Power BI/Tableau",
+    "API/data model checks; audit trail; compliance checklist"
+  ],
+  "Global Bank Practices": [
+    "Redesigned legacy governance models",
+    "AI and GenAI for proactive risk management",
+    "AI in KYC, transaction monitoring, risk scoring",
+    "Centralized product databases for risk and reuse",
+    "Dashboards for ROI, risk exposure, compliance",
+    "Streamlined approval for faster time-to-market",
+    "Integrated platforms for governance and analytics",
+    "Compliance-by-design and continuous monitoring"
+  ]
+}
